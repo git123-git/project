@@ -6,9 +6,7 @@ public class dfd {
 	public void ddd() {
 		
 	}
-public void ccc() {
-		
-	}
+
 
 	
 
